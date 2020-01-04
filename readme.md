@@ -7,6 +7,6 @@ ilk projelerimden olan basit bir randevu sistemi. Alıp geliştirip dilerseniz b
   <li>-> Laravel : 4.2</li>
   	<li>-> Database : mysql</li>
   	<li>-> admin path /admin</li>
-  	<li>->  username : admin@admin.com
+  	<li>->  username : admin@admin.com<br/>
         password : admin</li>
   </ol>
