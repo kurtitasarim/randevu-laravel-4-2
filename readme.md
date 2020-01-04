@@ -3,9 +3,10 @@
 
 ilk projelerimden olan basit bir randevu sistemi. Alıp geliştirip dilerseniz burada paylaşabilirsiniz.
   
-  Proje bilgileri
-  	-> Laravel : 4.2
+  <ol>Proje bilgileri
+  <li>-> Laravel : 4.2</li>
   	-> Database : mysql
   	-> admin path /admin
   	->  username : admin@admin.com
         password : admin
+  </ol>
