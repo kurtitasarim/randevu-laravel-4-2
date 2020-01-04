@@ -10,3 +10,7 @@ ilk projelerimden olan basit bir randevu sistemi. Alıp geliştirip dilerseniz b
   	<li>username : admin@admin.com<br/>
         password : admin</li>
   </ol>
+#### Demo
+  
+  demo link : http://randevu.kurtitasarim.com/
+  admin demo : http://randevu.kurtitasarim.com/admin/
