@@ -55,9 +55,9 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'randevu',
-			'username'  => 'randevu',
-			'password'  => '4023899',
+			'database'  => 'database_name',
+			'username'  => 'database_user',
+			'password'  => 'database_password',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_general_ci',
 			'prefix'    => '',
